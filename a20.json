@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Vortex",
+      "oem": "Samsung",
+      "device": "Galaxy A20",
+      "filename": "VortexOS-15.0-20261015-2125-a20-v11.17-debug.zip",
+      "download": "https://github.com/wwwmnl119-eng/vortex-os-ota/releases/download/test-20261015-2122/VortexOS-15.0-20261015-2125-a20-v11.17-debug.zip",
+      "timestamp": 1792087338,
+      "md5": "fe21ee23226129e8a7ef564b54d53b0b",
+      "size": 1171565258,
+      "version": "11.17",
+      "buildtype": "Monthly",
+      "forum": "https://github.com/wwwmnl119-eng/vortex-os-ota/releases",
+      "telegram": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": ""
+    }
+  ]
+}
